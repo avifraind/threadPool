@@ -1,0 +1,1 @@
+/usr/bin/cc  -pthread -g   CMakeFiles/threadPool.dir/threadPool.c.o CMakeFiles/threadPool.dir/osqueue.c.o CMakeFiles/threadPool.dir/test.c.o  -o threadPool 
